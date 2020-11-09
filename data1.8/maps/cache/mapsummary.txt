@@ -234,6 +234,12 @@ Smw,0,0,0,1,0,0,0,0,0,0,1,0
 Snow Top,0,1,1,1,0,1,0,1,0,1,1,1
 Snowball fight,0,0,1,0,0,1,0,0,0,0,0,0
 SpaceIceLavaStuff,1,1,1,1,0,1,1,1,0,0,0,0
+Special_bombboss_minigame,0,0,0,0,0,0,0,0,0,0,0,0
+Special_bonushouse,0,0,0,0,0,0,0,0,0,0,0,0
+Special_boxes_minigame,0,0,0,0,0,0,0,1,0,0,0,1
+Special_fireboss_minigame,1,0,0,0,0,0,0,1,0,0,0,0
+Special_hammerboss_minigame,1,0,0,0,0,0,0,1,0,0,0,0
+Special_pipe_minigame,0,0,0,0,0,0,0,0,0,0,0,0
 Splitting Headache,0,0,0,1,0,0,0,1,0,0,0,0
 Ssbmjunglejapes,0,0,0,1,0,0,0,0,0,0,0,0
 Stairway,0,0,0,1,0,0,0,0,0,0,0,0
@@ -286,5 +292,4 @@ World1-2,0,0,0,1,1,0,0,1,0,0,0,0
 Yarg,0,1,0,1,0,0,0,0,1,0,0,0
 Yoshi island,0,0,0,1,0,0,0,0,1,0,0,0
 Yoshisisland,0,0,0,1,1,0,0,0,0,0,0,0
-ZZleveleditor,1,0,0,1,1,0,1,1,1,1,0,0
 Zelda 1 - 1st Quest Level 1,1,1,0,1,0,0,0,0,0,0,0,0
